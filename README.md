@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Momanyi</h1>
 <h3 align="center">A passionate full-stack developer from KE</h3>
+ 
+ <br>
+ <img align="right" alt="GIF" src="https://github.com/fullstop125/fullstop125/blob/main/ezgif.com-gif-maker.gif?raw=true" width="300" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstop125&label=Profile%20views&color=0e75b6&style=flat" alt="fullstop125" /> </p>
 
@@ -16,6 +19,8 @@
 - 🤝 I’m looking for help with **healing from 💔**
 
 - 👨‍💻 All of my projects are available at [momanyi.me](momanyi.me)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" />
+ 
 
 - 📝 I regularly write articles on [oculusdad.com](oculusdad.com)
 
