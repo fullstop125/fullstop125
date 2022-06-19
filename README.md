@@ -20,12 +20,10 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-<img src=   alt="Welcome!" width="300"/>
-
 </div>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/35464104/174481911-920de6b1-a7ed-4fac-9adc-8eccee032e2f.gif)
 
 <div align="center">
+ 
 
 You have finally discovered my Github profile. <br>
 Please feel free to reach out incase of any queries  <br>
@@ -47,3 +45,4 @@ or <a href="mailto:hassanmoses125@gmail.com"><b>email</b></a> me.
 <!-- <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> -->
 
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstop125)](https://github.com/anuraghazra/github-readme-stats)
