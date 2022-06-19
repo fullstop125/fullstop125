@@ -4,7 +4,7 @@
  <br>
  <div align="center">
  
- <img align="right" alt="GIF" src="https://github.com/fullstop125/fullstop125/blob/main/ezgif.com-gif-maker.gif?raw=true" width="300" height="320" />
+ <img align="left" alt="GIF" src="https://github.com/fullstop125/fullstop125/blob/main/ezgif.com-gif-maker.gif?raw=true" width="300" height="320" />
 </div> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstop125&label=Profile%20views&color=0e75b6&style=flat" alt="fullstop125" /> </p>
