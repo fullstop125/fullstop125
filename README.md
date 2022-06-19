@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-<img src="[![ezgif-com-gif-maker.gif](https://i.postimg.cc/FK6NcCGB/ezgif-com-gif-maker.gif)](https://postimg.cc/DW193g9r)" alt="Welcome!" width="300"/>
+<img src=[![ezgif-com-gif-maker.gif](https://i.postimg.cc/FK6NcCGB/ezgif-com-gif-maker.gif)](https://postimg.cc/DW193g9r) alt="Welcome!" width="300"/>
 
 </div>
 
