@@ -58,4 +58,4 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&" alt="fullstop125" /></p>
 <br>
-<img align="left" src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fullstop125)](https://github.com/anuraghazra/github-readme-stats) width = "300"" alt="fullstop125" /></p>
+
