@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-<img src=[![ezgif-com-gif-maker.gif](https://i.postimg.cc/FK6NcCGB/ezgif-com-gif-maker.gif)](https://postimg.cc/DW193g9r) alt="Welcome!" width="300"/>
+<img src=   alt="Welcome!" width="300"/>
 
 </div>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/35464104/174481911-920de6b1-a7ed-4fac-9adc-8eccee032e2f.gif)
 
 <div align="center">
 
