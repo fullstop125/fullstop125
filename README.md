@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-<img src="https://drive.google.com/file/d/1OywtIV0qKiPdC2IlSvfVI-xc2eYxYrV_/view?usp=sharing" alt="Welcome!" width="300"/>
+<img src="[https://drive.google.com/file/d/1OywtIV0qKiPdC2IlSvfVI-xc2eYxYrV_/view?usp=sharing](https://drive.google.com/file/d/1-FMo8VmgcSJqfZ023H1B60MZyL1-utXz/view?usp=sharing)" alt="Welcome!" width="300"/>
 
 </div>
 
