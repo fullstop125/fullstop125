@@ -7,9 +7,9 @@
  <img align="center" alt="GIF" src="https://github.com/fullstop125/fullstop125/blob/main/ezgif.com-gif-maker.gif?raw=true" width="500" height="350" />
 </div> 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fullstop125&label=Profile%20views&color=0e75b6&style=flat" alt="fullstop125" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fullstop125&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="fullstop125" /> </p>
 
-<p align="center" width = 300> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstop125" alt="fullstop125" /></a> </p>
+<p align="center" width = 300> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstop125&theme=darkhub" alt="fullstop125" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=for-the-badge" alt="moseshassany" /></a> </p>
 
@@ -52,11 +52,11 @@
 <br>
 <p>
  <br>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstop125&show_icons=true&locale=en&layout=compact width = "300"" alt="fullstop125" /></p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstop125&show_icons=true&theme=neon-dark&locale=en&layout=compact width = "300"" alt="fullstop125" /></p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&show_icons=true&locale=en" alt="fullstop125" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&theme=neon-dark&show_icons=true&locale=en" alt="fullstop125" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&" alt="fullstop125"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=neon-dark" alt="fullstop125"  /></p>
 <br>
 
 
