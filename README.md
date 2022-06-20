@@ -52,11 +52,11 @@
 <br>
 <p>
  <br>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstop125&show_icons=true&theme=neon-dark&locale=en&layout=compact width = "300"" alt="fullstop125" /></p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstop125&show_icons=true&theme=yeblu&locale=en&layout=compact width = "300"" alt="fullstop125" /></p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&theme=neon-dark&show_icons=true&locale=en" alt="fullstop125" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&theme=yeblu&show_icons=true&locale=en" alt="fullstop125" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=neon-dark" alt="fullstop125"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=yeblu" alt="fullstop125"  /></p>
 <br>
 
 
