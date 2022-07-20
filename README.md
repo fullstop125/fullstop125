@@ -27,7 +27,7 @@
 
 - 📝 I regularly write articles on [oculusdad.com](oculusdad.com)
 
-- 💬 Ask me about **react, javascript,ruby,c#,.Net framework,Django,REST APIs, Linux,**
+- 💬 Ask me about **react, javascript,ruby,c#,.Net,REST APIs, Linux,**
 <br>
 
 - 📫 How to reach me **hassanmoses125@gmail.com**
