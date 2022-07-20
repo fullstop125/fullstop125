@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **well, everything😂😂**
 
-- 👯 I’m looking to collaborate on **upcoming proojects**
+- 👯 I’m looking to collaborate on **upcoming projects**
 
 - 🤝 I’m looking for help with **healing from 💔**
 
