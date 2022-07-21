@@ -52,7 +52,7 @@
 <br>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&theme=yeblu&show_icons=true&locale=en" alt="fullstop125" /></p>
 <br>
-<p><a href="https://github.com/kittinan/spotify-github-profile"><img align="right"src="https://spotify-github-profile.vercel.app/api/view?uid=of7psvnptjdgrq3rv4xioco8m&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=f2d7d9&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p>
+<p><a href="https://github.com/kittinan/spotify-github-profile"><img align="right"src="https://spotify-github-profile.vercel.app/api/view?uid=of7psvnptjdgrq3rv4xioco8m&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=f2d7d9&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p><br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=yeblu" alt="fullstop125"  /></p>
 <br>
