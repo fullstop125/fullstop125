@@ -54,7 +54,7 @@
 <br>
 
 <br>
-<p align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=yeblu" width="600" alt="fullstop125"  /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=yeblu" width="600" alt="fullstop125"  /></p>
 <br>
 <p align="center" ><a href="https://github.com/kittinan/spotify-github-profile"><img width = "100%" align="middle"src="https://spotify-github-profile.vercel.app/api/view?uid=of7psvnptjdgrq3rv4xioco8m&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=f2d7d9&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p><br>
 
