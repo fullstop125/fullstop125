@@ -47,7 +47,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&count_private=true&theme=yeblu&show_icons=true&locale=en" alt="fullstop125" /></p>
 
-<img align="left" width=250px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+<img align="left" width=200px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 <br>
 <p align="right"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=yeblu" width="600" alt="fullstop125"  /></p>
 <br>
