@@ -2,14 +2,10 @@
 <h3 align="center">A passionate full-stack developer from 🇰🇪</h3>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling" width = "100%"/>
  <div align="center">
- 
 <!--  <img align="center" alt="GIF" src="https://github.com/fullstop125/fullstop125/blob/main/momanyi-small.gif?raw=true" width="700" height="350" /> -->
 </div> 
-<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fullstop125&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="fullstop125" /> </p>
-
-<p align="center" width = 300> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstop125&theme=darkhub" alt="fullstop125" /></a> </p>
-
+<p align="center" width = 300> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstop125&theme=darkhub&column=-1" alt="fullstop125" /></a> </p>
 <p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=for-the-badge" alt="moseshassany" /></a> </p>
 
 - 🔭 I’m currently working on **productivity management App**
@@ -48,12 +44,12 @@
 
  <br>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstop125&show_icons=true&theme=yeblu&locale=en&layout=compact width = "300" alt="fullstop125" />
-<br>
+
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&count_private=true&theme=yeblu&show_icons=true&locale=en" alt="fullstop125" /></p>
+
+<img align="left" width=250px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 <br>
-<img align="left" width=200px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-<br>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=yeblu" width="600" alt="fullstop125"  /></p>
+<p align="right"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=yeblu" width="600" alt="fullstop125"  /></p>
 <br>
 <p align="center" ><a href="https://github.com/kittinan/spotify-github-profile"><img width = "100%" align="middle"src="https://spotify-github-profile.vercel.app/api/view?uid=of7psvnptjdgrq3rv4xioco8m&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=f2d7d9&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p><br>
 
