@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=for-the-badge" alt="moseshassany" /></a> </p>
 
 - 🔭 I’m currently working on **productivity management App**
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
+<img align="right" alt="GIF" src="https://github.com/fullstop125/fullstop125/blob/main/gojo-dance.gif?raw=true" width="450" height="550" />
 - 🌱 I’m currently learning **well, everything😂😂**
 
 - 👯 I’m looking to collaborate on **upcoming projects**
