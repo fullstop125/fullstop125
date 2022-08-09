@@ -18,3 +18,4 @@ jobs:
           SHOW_COMMIT: True
           SHOW_LANGUAGE: True
           SHOW_OS: True
+          actions/checkout Default: ${{ fullstop125/fullstop125 }}
