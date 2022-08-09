@@ -50,7 +50,7 @@
  <br>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstop125&show_icons=true&theme=yeblu&locale=en&layout=compact width = "300" alt="fullstop125" />
 <br>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&theme=yeblu&show_icons=true&locale=en" alt="fullstop125" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&count_private=true&theme=yeblu&show_icons=true&locale=en" alt="fullstop125" /></p>
 <br>
 
 <br>
