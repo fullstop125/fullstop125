@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Momanyi</h1>
 <h3 align="center">A passionate full-stack developer from 🇰🇪</h3>
- 
- <br>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling" width = "100%"/>
  <div align="center">
  
 <!--  <img align="center" alt="GIF" src="https://github.com/fullstop125/fullstop125/blob/main/momanyi-small.gif?raw=true" width="700" height="350" /> -->
@@ -59,6 +58,7 @@
 <p align="center" ><a href="https://github.com/kittinan/spotify-github-profile"><img width = "100%" align="middle"src="https://spotify-github-profile.vercel.app/api/view?uid=of7psvnptjdgrq3rv4xioco8m&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=f2d7d9&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p><br>
 
 <a href="http://www.github.com/fullstop125"><img src="https://activity-graph.herokuapp.com/graph?username=fullstop125&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling" width= "100%"/>
 
 
 
