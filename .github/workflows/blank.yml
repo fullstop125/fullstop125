@@ -1,0 +1,35 @@
+- name: Profile Readme Development Stats
+  # You may pin to the exact commit or the version.
+  # uses: anmol098/waka-readme-stats@b2646a9af922f06b6a3cf3c3059e3bb67df077ca
+  uses: anmol098/waka-readme-stats@V3
+  with:
+    # GitHub access token with Repo scope
+    GH_TOKEN: # default is ${{ github.token }}
+    # Your Wakatime API Key
+    WAKATIME_API_KEY: 
+    # Show the list of OS Worked on In dev metrics
+    SHOW_OS: # optional, default is True
+    # Show the list of projects worked on in dev metrics
+    SHOW_PROJECTS: # optional, default is True
+    # Show the Editors used in dev metrics
+    SHOW_EDITORS: # optional, default is True
+    # Show the time zone in the dev metrics
+    SHOW_TIMEZONE: # optional, default is True
+    # Shows the number of commit graph in the dev metrics
+    SHOW_COMMIT: # optional, default is True
+    # Show the Coding language used in dev metrics
+    SHOW_LANGUAGE: # optional, default is True
+    # Show the Total Lines of code written Badge till date
+    SHOW_LINES_OF_CODE: # optional, default is False
+    # Show language or framework used across different repository
+    SHOW_LANGUAGE_PER_REPO: # optional, default is True
+    # 
+    SHOW_LOC_CHART: # optional, default is True
+    # show day of week you are most productive
+    SHOW_DAYS_OF_WEEK: # optional, default is True
+    # Shows the current profile views
+    SHOW_PROFILE_VIEWS: # optional, default is True
+    # Shows the short facts
+    SHOW_SHORT_INFO: # optional, default is True
+    # Show stats in your own language
+    LOCALE: # optional, default is en
