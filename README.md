@@ -59,6 +59,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 3 hrs 2 mins
+
 JavaScript   4 hrs 9 mins    █████████████████░░░░░░░░   68.11 %
 HTML         1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
 CSS          50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
