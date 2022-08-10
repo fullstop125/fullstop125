@@ -2,6 +2,7 @@ name: Waka Readme
 
 on:
   workflow_dispatch: # for manual workflow trigger
+  push: {branches: ["master", "main"]}
   schedule:
     - cron: '0 0 * * *' # runs at every 12AM UTC
 
@@ -17,4 +18,4 @@ jobs:
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
-          SHOW_TOTAL : true
+
