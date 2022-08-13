@@ -7,18 +7,18 @@
 <p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=for-the-badge" alt="moseshassany" /></a> </p>
 
 - 🔭 I’m currently working on **productivity management App**
-<img align="right" alt="GIF" src="https://github.com/fullstop125/fullstop125/blob/main/gojo-dance.gif?raw=true" width="450" height="550" />
+
 - 🌱 I’m currently learning **well, everything😂😂**
 
 - 👯 I’m looking to collaborate on **upcoming projects**
 
-- 🤝 I’m looking for help with **healing from 💔**
+- 🤝 I’m looking for help with **Javascript**
 
 - 👨‍💻 All of my projects are available at [momanyi.me](momanyi.me)
 
 - 📝 I regularly write articles on [oculusdad.com](oculusdad.com)
 
-- 💬 Ask me about **react, javascript,ruby,c#,.Net,REST APIs, Linux,**
+- 💬 Ask me about **javascript,ruby,REST-APIs,Linux,**
 
 - 📫 How to reach me **hassanmoses125@gmail.com**
 
