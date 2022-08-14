@@ -37,7 +37,6 @@
 <p align="right"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=fullstop125&theme=yeblu&hide_border=true" width="600" alt="fullstop125"  /></p>
 <br>
 <p align="center" ><a href="https://github.com/kittinan/spotify-github-profile"><img width = "100%" align="middle"src="https://spotify-github-profile.vercel.app/api/view?uid=of7psvnptjdgrq3rv4xioco8m&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=f2d7d9&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p><br>
-<a href="http://www.github.com/fullstop125"><img height="300" src="https://activity-graph.herokuapp.com/graph?username=fullstop125&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <p><a href="https://github.com/fullstop125/fullstop125/actions/workflows/waka-readme.yml"><img src="https://github.com/fullstop125/fullstop125/actions/workflows/waka-readme.yml/badge.svg" alt="Waka Readme"></a></p>
 
 <!--START_SECTION:waka-->
@@ -53,7 +52,9 @@ Other        14 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <h3  id="-random-dev-quote">✍️ Random Dev Quote</h3>
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt=""></p>
+<p> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt=""></p>
+<h3 align="righ" id="-you-can-help-me-by-donating">💰 You can help me by Donating</h2>
+<p> <a href="https://paypal.me/momanyihassan125@gmail.com"><img align="righ" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&amp;logo=paypal&amp;logoColor=white" alt="PayPal"></a> </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling" width= "100%"/>
 
 
