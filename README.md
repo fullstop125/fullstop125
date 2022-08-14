@@ -56,6 +56,7 @@ Other        14 mins         ▒░░░░░░░░░░░░░░░░
 <p> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt=""></p>
 <h3 align="righ" id="-you-can-help-me-by-donating">💰 You can help me by Donating</h2>
 <p> <a href="https://paypal.me/momanyihassan125@gmail.com"><img align="righ" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&amp;logo=paypal&amp;logoColor=white" alt="PayPal"></a> </p>
+<hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling" width= "100%"/>
 
 
