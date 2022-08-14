@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # for manual workflow trigger
   push: {branches: ["master", "main"]}
   schedule:
-    - cron: '0 0 * * *' # runs at every 12AM UTC
+           [{cron: "0 * * * *"}] # runs at every Hr
 
 jobs:
   update-readme:
