@@ -1,30 +1,12 @@
-<h1 align="center">Hi 👋, I'm Momanyi</h1>
+<h1 align="center" id="-hi-i-am-momanyi-">💫 Hi I am Momanyi:</h1>
 <h3 align="center">A passionate full-stack developer from 🇰🇪</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go%20ahead,%20read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling" width = "100%"/> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fullstop125&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="fullstop125" /> </p>
 <p align="center" width = 300> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstop125&theme=darkhub&column=-1" alt="fullstop125" /></a> </p>
 <p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=for-the-badge" alt="moseshassany" /></a> </p>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1192437/screenshots/5039546/media/e31a26852f18b3ec8e4fba56ce343feb.gif" width="450" height="550" /> 
-- 🔭 I’m currently working on **productivity management App**
-
-- 🌱 I’m currently learning **well, everything😂😂**
-
-- 👯 I’m looking to collaborate on **upcoming projects**
-
-- 🤝 I’m looking for help with **Javascript**
-
-- 👨‍💻 All of my projects are available at [momanyi.me](momanyi.me)
-
-- 📝 I regularly write articles on [oculusdad.com](oculusdad.com)
-
-- 💬 Ask me about **javascript,ruby,REST-APIs,Linux,**
-
-- 📫 How to reach me **hassanmoses125@gmail.com**
-
-- 📄 Know about my experiences [momanyi.me](momanyi.me)
-
-- ⚡ Fun fact **i looooove anime**
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1192437/screenshots/5039546/media/e31a26852f18b3ec8e4fba56ce343feb.gif" width="450" height="400" /> 
+<p>🔭 I’m currently working on :productivity management App<br>👯 I’m looking to collaborate on : upcoming projects<br>🤝 I’m looking for help with : javascript<br>🌱 I’m currently learning : javascript<br>💬 Ask me about : javascript,ruby,REST-APIs,Linux<br>⚡ Fun fact : i loooove anime </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
