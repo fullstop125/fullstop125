@@ -1,4 +1,4 @@
-<h1 align="center" id="-hi-i-am-momanyi-">💫 Hi I am Momanyi:</h1>
+<h1 align="center" id="-hi-i-am-momanyi-">💫🪐 Hi I am Momanyi:👨‍💻</h1>
 <h3 align="center">A passionate full-stack developer from 🇰🇪</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go%20ahead,%20read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling" width = "100%"/> 
 
