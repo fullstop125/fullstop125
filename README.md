@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=31&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=...........💫+🪐+Hi+I+am+Momanyi........." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=31&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=.....💫+🪐+Hi+I+am+Momanyi💫+🪐+....." alt="Typing SVG" /></a>
 <h3 align="center">A passionate full-stack developer from 🇰🇪</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go%20ahead,%20read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling" width = "100%"/> 
 
