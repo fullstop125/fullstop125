@@ -40,8 +40,7 @@
 <br>
 <hr>
 <p align="center" ><a href="https://github.com/kittinan/spotify-github-profile"><img width = "100%" align="middle"src="https://spotify-github-profile.vercel.app/api/view?uid=of7psvnptjdgrq3rv4xioco8m&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=f2d7d9&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p><br>
-<p><a href="https://github.com/fullstop125/fullstop125/actions/workflows/waka-readme.yml"><img src="https://github.com/fullstop125/fullstop125/actions/workflows/waka-readme.yml/badge.svg" alt="Waka Readme"></a></p>
-
+<p align= "left"> <a href="https://wakatime.com/@b9c45306-f814-40ab-b4d1-76493c32eb9a"><img align = "center" src="https://wakatime.com/badge/user/b9c45306-f814-40ab-b4d1-76493c32eb9a.svg" alt="Total time coded since Jul 23 2022" /></a> </p>
 <!--START_SECTION:waka-->
 
 ```text
