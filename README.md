@@ -1,5 +1,5 @@
 <h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=31&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=.....💫+🪐+Hi......+I+am+Momanyi💫+🪐+....." alt="Typing SVG" /></a> <h1/>
-<p align="center"><img src="https://img.shields.io/badge/Microverse-blueviolet" alt=""></p>
+
 <h3 align="center">A passionate full-stack developer from 🇰🇪</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...feel%20free,%20read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling" width = "100%"/> 
 <p align= "center"> <img src="https://img.shields.io/badge/Momanyi%20Hassan-is%20Available%20for%20Hire%20-blueviolet" /> </p>
@@ -8,6 +8,7 @@
 
 <p align="center" width = 300> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstop125&no-frame=true&theme=darkhub&column=-1"alt="fullstop125" /></a> </p>
 <hr>
+<p ><img src="https://img.shields.io/badge/Microverse-blueviolet" alt=""></p>
 <p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=for-the-badge" alt="moseshassany" /></a> </p>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1192437/screenshots/5039546/media/e31a26852f18b3ec8e4fba56ce343feb.gif" width="370" height="370" /> 
 <br><br>
