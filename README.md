@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full-stack developer from 🇰🇪</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...feel%20free,%20read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling" width = "100%"/> 
-<p align= "center"> <img src="https://img.shields.io/badge/Momanyi%20Hassan-is%20Available%20for%20Hire%20-blueviolet" /> </p>
+<p align= "center"> <img src="https://img.shields.io/badge/Momanyi%20Hassan%20-is%20Available%20for%20Hire%20-blueviolet" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fullstop125&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="fullstop125" /> </p>
 
