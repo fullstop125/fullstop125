@@ -33,7 +33,7 @@
 
  <br>
  <hr>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstop125&show_icons=true&langs_count=8&layout=compact&theme=yeblu&hide_border=true&locale=en" width = "300" height = "150" alt="fullstop125" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstop125&show_icons=true&langs_count=8&layout=compact&theme=yeblu&hide_border=true&locale=en"  alt="fullstop125" />
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstop125&count_private=true&theme=yeblu&show_icons=true&hide_border=true&locale=en" alt="fullstop125" /></p>
 
