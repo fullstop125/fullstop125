@@ -10,6 +10,9 @@
 <hr>
 <p ><img src="https://img.shields.io/badge/Microverse-blueviolet" alt=""></p>
 <p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=for-the-badge" alt="moseshassany" /></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/momanyi-hassan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&momanyi-hassan&logoColor=white" alt="momanyi-hassan" /></a> </p>
+
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1192437/screenshots/5039546/media/e31a26852f18b3ec8e4fba56ce343feb.gif" width="370" height="370" /> 
 <br><br>
 
