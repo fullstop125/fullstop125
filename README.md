@@ -9,7 +9,7 @@
 <p align="center" width = 300> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstop125&no-frame=true&theme=darkhub&column=-1"alt="fullstop125" /></a> </p>
 <hr>
 <p ><img src="https://img.shields.io/badge/Microverse-blueviolet" alt=""></p>
-<p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=for-the-badge" alt="moseshassany" /></a> </p>
+<p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=flat-square" alt="moseshassany" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/momanyi-hassan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&momanyi-hassan&logoColor=white" alt="momanyi-hassan" /></a> </p>
 
