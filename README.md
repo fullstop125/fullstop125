@@ -50,8 +50,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 mins         ████████████████████▓░░░░   82.31 %
-YAML         2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
