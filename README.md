@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/momanyi-hassan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&momanyi-hassan&logoColor=white" alt="momanyi-hassan" /></a> </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Hy9ox2k3rjn88Py6Zs/giphy-downsized-large.gif" width="370" height="370" /> 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/eYAOh1ud0ax05NgquY/giphy.gif" width="370" height="370" /> 
 <br><br>
 
 <p>🔭 I’m currently working on :productivity management App<br>👯 I’m looking to collaborate on : upcoming projects<br>🤝 I’m looking for help with : javascript<br>🌱 I’m currently learning : javascript<br>💬 Ask me about : javascript,ruby,REST-APIs,Linux<br>⚡ Fun fact : i loooove anime </p>
