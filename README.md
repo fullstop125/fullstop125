@@ -8,18 +8,11 @@
 
 <p align="center" width = 300> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstop125&no-frame=true&theme=darkhub&column=-1"alt="fullstop125" /></a> </p>
 <hr>
-<p ><img src="https://img.shields.io/badge/Microverse-blueviolet" alt=""></p>
-<p align="left"> <a href="https://twitter.com/moseshassany" target="blank"><img src="https://img.shields.io/twitter/follow/moseshassany?logo=twitter&style=flat-square" alt="moseshassany" /></a> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/momanyi-hassan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&momanyi-hassan&logoColor=white" alt="momanyi-hassan" /></a> </p>
-
-<img align="right" alt="GIF" src="https://gfycat.com/ambitiousclearcutcommongonolek-dev-patel" width="370" height="370" /> 
+<img align="right" alt="GIF" src="http://24.media.tumblr.com/7b414eae74b1cb410a9880688794ee0e/tumblr_mjqeo13WLB1rmtenjo1_r1_500.gif" height="400" width="500" /> 
 <br><br>
-
 <p>🔭 I’m currently working on :productivity management App<br>👯 I’m looking to collaborate on : upcoming projects<br>🤝 I’m looking for help with : javascript<br>🌱 I’m currently learning : javascript<br>💬 Ask me about : javascript,ruby,REST-APIs,Linux<br>⚡ Fun fact : i loooove anime </p>
 <br>
 <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fullstop125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fullstop125" height="30" width="40" /></a>
