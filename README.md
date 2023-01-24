@@ -10,7 +10,9 @@
 <hr>
 <img align="right" alt="GIF" src="http://24.media.tumblr.com/7b414eae74b1cb410a9880688794ee0e/tumblr_mjqeo13WLB1rmtenjo1_r1_500.gif" height="470" width="500" /> 
 <br><br>
-<p>🔭 I’m currently working on :productivity management App<br>👯 I’m looking to collaborate on : upcoming projects<br>🤝 I’m looking for help with : javascript<br>🌱 I’m currently learning : javascript<br>💬 Ask me about : javascript,ruby,REST-APIs,Linux<br>⚡ Fun fact : i loooove anime </p>
+<p>🔭 I’m currently working on :Events Reservation App<br>👯 I’m looking to collaborate on : Anything  <br>🤝 🌱 I’m currently learning : Rails <br>💬 Ask me about : Full-Stack Dev and probably Linux<br>⚡ Fun fact : I'm Cool, really I am 😎 </p>
+<p ><img src="https://img.shields.io/badge/Microverse-blueviolet" alt=""></p>
+<p align="left"> <a href="https://www.linkedin.com/in/momanyi-hassan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&momanyi-hassan&logoColor=white" alt="momanyi-hassan" /></a> </p>
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
