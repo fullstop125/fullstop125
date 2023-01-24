@@ -8,7 +8,7 @@
 
 <p align="center" width = 300> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstop125&no-frame=true&theme=darkhub&column=-1"alt="fullstop125" /></a> </p>
 <hr>
-<img align="right" alt="GIF" src="http://24.media.tumblr.com/7b414eae74b1cb410a9880688794ee0e/tumblr_mjqeo13WLB1rmtenjo1_r1_500.gif" height="400" width="500" /> 
+<img align="right" alt="GIF" src="http://24.media.tumblr.com/7b414eae74b1cb410a9880688794ee0e/tumblr_mjqeo13WLB1rmtenjo1_r1_500.gif" height="470" width="500" /> 
 <br><br>
 <p>🔭 I’m currently working on :productivity management App<br>👯 I’m looking to collaborate on : upcoming projects<br>🤝 I’m looking for help with : javascript<br>🌱 I’m currently learning : javascript<br>💬 Ask me about : javascript,ruby,REST-APIs,Linux<br>⚡ Fun fact : i loooove anime </p>
 <br>
