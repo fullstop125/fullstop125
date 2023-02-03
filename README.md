@@ -13,16 +13,16 @@
 <p>🔭 I’m currently working on :Events Reservation App<br>
  
  
- 👯 I’m looking to collaborate on : Anything <br>
+ 👯 I’m looking to collaborate on : Open Source Projects <br>
  
  
-  🌱 I’m currently learning : Rails <br>
+  🌱 I’m currently learning : Ruby on Rails <br>
  
  <br>
  💬 Ask me about : Full-Stack Dev and probably Linux<br>
  
  <br>
- ⚡ Fun fact : I'm Cool, really I am 😎 </p>
+ ⚡ Fun fact : I love Travelling </p>
  
  <br>
 
