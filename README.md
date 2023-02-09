@@ -59,9 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   59 mins         ███████████████████████▒░   92.73 %
-YAML   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-ERB    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
