@@ -22,7 +22,7 @@
  💬 Ask me about : Full-Stack Dev and probably Linux<br>
  
  <br>
- ⚡ Fun fact : I love Travelling </p>
+ ⚡ Fun fact : I love Anime  💭  ( ͡ᵔ ͜ʖ ͡ᵔ ) </p>
  
  <br>
 
