@@ -59,7 +59,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash   10 mins         ████████████████████████░   96.10 %
+PHP    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
