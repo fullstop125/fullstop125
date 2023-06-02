@@ -59,7 +59,7 @@
 <p align= "left"> <a href="https://wakatime.com/@b9c45306-f814-40ab-b4d1-76493c32eb9a"><img align = "center" src="https://wakatime.com/badge/user/b9c45306-f814-40ab-b4d1-76493c32eb9a.svg" alt="Total time coded since Jul 23 2022" /></a> </p>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
