@@ -60,8 +60,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   15 mins         █████████████████▒░░░░░░░   68.94 %
-PHP          7 mins          ███████▓░░░░░░░░░░░░░░░░░   31.06 %
+JavaScript   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
