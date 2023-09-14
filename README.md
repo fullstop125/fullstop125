@@ -64,7 +64,7 @@ JavaScript   0 secs          █████████████████
 ```
 
 <!--END_SECTION:waka-->
-<p align="center" ><a href="https://github.com/kittinan/spotify-github-profile"><img width = "100%" align="middle"src="https://spotify-github-profile.vercel.app/api/view?uid=of7psvnptjdgrq3rv4xioco8m;cover_image=true&amp;theme=novatorem&amp;bar_color=f2d7d9&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p><br>
+<p align="center" ><a href="https://github.com/kittinan/spotify-github-profile"><img width = "100%" align="middle"src="https://spotify-github-profile.vercel.app/api/view.svg?uid=of7psvnptjdgrq3rv4xioco8m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile"></a></p><br>
 <h3  id="-random-dev-quote">✍️ Random Dev Quote</h3>
 <p> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt=""></p>
 <h3 align="righ" id="-you-can-help-me-by-donating">💰 You can help me by Donating</h2>
