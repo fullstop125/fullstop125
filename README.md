@@ -60,10 +60,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             39 mins         ████████████████▓░░░░░░░░   66.25 %
-JavaScript       19 mins         ████████░░░░░░░░░░░░░░░░░   32.38 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Java             39 mins         ████████████████████████▓   98.80 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
