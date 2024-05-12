@@ -60,8 +60,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   0 secs          ███████████████████████▓░   94.13 %
-Ruby         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Ruby   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
